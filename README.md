@@ -1,5 +1,5 @@
 # sampeRepo
 addingReadme
 
-#FIRST SAMPLWEEEEE
+# FIRST SAMPLWEEEEE
 * first readme
