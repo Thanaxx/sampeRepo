@@ -1,3 +1,3 @@
 # sampeRepo
 addingReadme
-*first readme
+* first readme
