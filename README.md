@@ -1,5 +1,8 @@
-# sampeRepo
-addingReadme
+# Creating a markdown
 
-# FIRST SAMPLWEEEEE
-* first readme
+# How to make it?
+##here is the sample
+
+* create new repository
+* create README.md file
+* Save yuor changes
