@@ -1,0 +1,3 @@
+# sampeRepo
+addingReadme
+*first readme
